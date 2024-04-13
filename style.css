@@ -15,7 +15,7 @@
 body {
   font-family: "Work Sans", sans-serif;
   background-color: var(--color2);
-  background-image: url(./assets/images/background-pattern-desktop.svg);
+  background-image: url(./images/background-pattern-desktop.svg);
   background-repeat: no-repeat;
   background-position-x: 25%;
 }
